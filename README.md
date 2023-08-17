@@ -1,6 +1,6 @@
 ## Lost in the Middle: How Language Models Use Long Contexts
 
-This repository contains code that is inspired by the research paper [_Lost in the Middle: How Language Models Use Long Contexts_] (https://arxiv.org/abs/2307.03172) to investigate how well large language models perform when presented with long contexts. The goal is to investigate the effectiveness of various models and components when processing long contexts.
+This repository contains code that is inspired by the research paper [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/abs/2307.03172) to investigate how well large language models perform when presented with long contexts. The goal is to investigate the effectiveness of various models and components when processing long contexts.
  
 ### Overview
 
